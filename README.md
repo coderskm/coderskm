@@ -8,6 +8,5 @@
 - 🤔 I’m look for help when required.
 - 💬 Ask me about Python, C++, Javascript, Web Development and fun stuffs like movies etc.
 - 📫 How to reach me: Twitter - @coderskm_jsx.
-- 😄 Pronouns: Not a liberal.
 - ⚡ True fact: I am a polymath and autodidact.
 

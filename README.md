@@ -12,3 +12,6 @@
 ### Welcome to my Github account !!!
 
 ![Greet on Git](https://github-readme-stats.vercel.app/api?username=coderskm&show_icons=true_color=fff&icon_color=79ff97&text_c)
+
+### Thanks !!!
+![funny gif](https://c.tenor.com/2dnjY8P6eJQAAAAd/java-script-metal-gear-rising.gif)

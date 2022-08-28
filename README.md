@@ -11,4 +11,4 @@
 
 ### Welcome to my Github account !!!
 
-![Greet on Git](https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47lu1h2iaed1g9qo8ngls5ngahnrsvnhpdp1p8yi0a&rid=giphy.gif&ct=g)
+![Greet on Git](https://github-readme-stats.vercel.app/api?username=coderskm&show_icons=true_color=fff&icon_color=79ff97&text_c)

@@ -11,5 +11,4 @@
 
 ### Welcome to my Github account !!!
 
-<iframe src="https://giphy.com/embed/26u4nJPf0JtQPdStq" width="480" height="184" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pixels-github-commit-26u4nJPf0JtQPdStq">via GIPHY</a></p>
-
+![Greet on Git](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)

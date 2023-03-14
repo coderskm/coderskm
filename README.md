@@ -2,12 +2,12 @@
 
 
 
-- 🔭 I’m currently working on FullStack Web Development.
+- 🔭 I’m currently learning web development.
 - 🌱 I’m currently learning Javascript and other tech related stuff.
 - 👯 I’m currently looking for a job.
 - 🤔 I look for help when required.
-- 💬 Ask me about Python, C++, Javascript, Web Development and other cool stuffs.
-- 📫 How to reach me: [Twitter - @coderskm_jsx](https://twitter.com/coderskm_jsx)
+- 💬 I love discussion on useful or fun stuffs.
+- 📫 How to reach me: [Twitter - @_coderskm](https://twitter.com/_coderskm)
 
 ### Welcome to my Github account !!!
 

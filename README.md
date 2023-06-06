@@ -11,5 +11,4 @@
 
 
 
-### Thanks !!!
-![funny gif](https://c.tenor.com/2dnjY8P6eJQAAAAd/java-script-metal-gear-rising.gif)
+### Thanks

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderskm&label=Profile%20views&color=0e75b6&style=flat" alt="coderskm" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, HTML, CSS and Bootstrap**
+- 🌱 I’m currently learning **ReactJS, HTML, CSS, NextJS and Bootstrap**
 
 - 👨‍💻 All of my projects are available at [https://sumitkm.netlify.app/](https://sumitkm.netlify.app/)
 

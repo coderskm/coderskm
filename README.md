@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderskm&label=Profile%20views&color=0e75b6&style=flat" alt="coderskm" /> </p>
 
-- 🌱 I’m currently learning **ReactJS and CSS**
+- 🌱 I’m currently building web apps using **MERN Stack**
 
 - 👨‍💻 All of my projects are available [here](https://projects-list.netlify.app/)
 
-- 💬 Ask me about **NodeJS, ExpressJS, MongoDB and JavaScript**
+- 💬 Ask me about **Java, React, NodeJS, ExpressJS, MongoDB and JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

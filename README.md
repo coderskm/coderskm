@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently building web apps using **MERN Stack**
 
-- 👨‍💻 All of my projects are available [here](https://projects-list.netlify.app/)
-
 - 💬 Ask me about **Java, React, NodeJS, ExpressJS, MongoDB and JavaScript**
 
 <h3 align="left">Connect with me:</h3>
